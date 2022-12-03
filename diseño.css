@@ -1,0 +1,132 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color:#3498DB;
+}
+
+.menu{
+  background-color:#1A5276;
+  list-style-image: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.menu li{
+
+  display: inline-block;
+}
+
+.menu li a{
+  padding: 13px 40px;
+  display:inline-block;
+  color: white;
+  font-size:20;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.menu li a:hover{
+  background: gray;
+  color: black;
+}
+.I1{
+  position: absolute;
+  left: 165px;
+  top: 12px;
+  background-color: white;
+  }
+  .I2{
+    position: absolute;
+    left: 19px;
+    top: 12px;
+    background-color: white;
+    }
+  .P1{
+    position: absolute;
+    padding: 6px;
+    left: 1200px;
+  }
+
+  .P2{
+    position: absolute;
+    padding: 6px;
+    left: 1250px;
+  }
+  .P3{
+    position: absolute;
+    padding: 6px;
+    left: 1300px;
+  }
+
+  hr{
+    position: absolute;
+    top:35px;
+    background-color: red;
+  }
+
+  .SubMenu{
+    background-color:#7FB3D5;
+    list-style-image: none;
+    margin: 0px;
+    padding: 0px;
+  }
+  .SubMenu li{
+
+    display: inline-block;
+  }
+
+  .SubMenu li a{
+    margin-top: 15px;
+    padding: 8px 20px;
+    display: inline-block;
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    background: #DC283B;
+  }
+
+  .r{
+    display: inline-block;
+    color: #7FB3D5;
+
+  }
+
+  .Logo{
+    position: absolute;
+    top: 60px;
+    left: 30px;
+  }
+
+  .Fondo{
+  width:1350px;
+  margin: 0px;
+  padding: 0px;
+  }
+
+  .Txt{
+  color: White;
+  font-size: 40px;
+  }
+  .Txt p{
+    position: absolute;
+    padding: 64px 49px;
+    background-color:#F21E1E;
+    margin-left:855px;
+    display: inline-block;
+    margin-top: -273px;
+    float: right;
+  }
+
+  .MF{
+    background-color:White;
+    list-style-image: none;
+    margin: 0px;
+    padding: -5px;
+    top: 10px;
+  }
+
+  .MF p{
+    color: gray;
+    font-size: 20px;
+    display: inline-block;
+  }

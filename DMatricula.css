@@ -1,0 +1,18 @@
+body{
+  background-color: #7DCEA0;
+  margin: 0px;
+  padding: 0px;
+}
+
+.NF{
+  background-color:White;
+  list-style-image: none;
+  margin: 0px;
+  padding: -5px;
+  top: 10px;
+}
+.NF p{
+  color: gray;
+  font-size: 20px;
+  display: inline-block;
+}
